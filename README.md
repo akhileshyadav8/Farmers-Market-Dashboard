@@ -58,7 +58,7 @@ This page focuses on revenue performance, highlighting top-selling products, cus
 If you have any feedback or suggestions, feel free to connect.
 
 - **LinkedIn:** [https://www.linkedin.com/in/akhilesh-yadav88/]
-- **Portfolio:** [https://yaadavakhilesh.github.io/]
+- **Portfolio:** [https://akhileshyadav8.github.io/]
 - **Email:** yadavakhil766@gmail.com
 
 ---
