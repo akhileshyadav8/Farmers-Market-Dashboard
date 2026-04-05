@@ -62,6 +62,3 @@ If you have any feedback or suggestions, feel free to connect.
 - **Email:** yadavakhil766@gmail.com
 
 ---
-
-## 📄 License
-This project is for educational and portfolio purposes.
